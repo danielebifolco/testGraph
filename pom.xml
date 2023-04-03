@@ -26,11 +26,6 @@
       <version>5.9.1</version>
       <scope>test</scope>
     </dependency>
-    <dependency>
-      <groupId>com.github.TonyFPY</groupId>
-      <artifactId>Frogger_G52SWM</artifactId>
-      <version>1.0-SNAPSHOT</version>
-    </dependency>
   </dependencies>
   
   <build>
